@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import jobReducer from "../reducers/avalaiblejobs";
+import jobReducer from "../reducers/availablejobs";
 import favouriteReducers from "../reducers/favourite";
 import { combineReducers } from "@reduxjs/toolkit";
 
